@@ -1,3 +1,3 @@
 # hello-world
 
-Apple is red
+My name is Tasnim Mostafa. I am a student in Website Design-1836 course at Conestoga College.Though I do not have any background in technology, I am both excited and nervous to learn all these new ideas.I want to gain the knowledge necessary to become a successful web developer. I have noticed different apps are making our lives easier.I also want to build a helpful app which can make our life comfortable.I am curious to see what this "Web Design" course has to offer.
